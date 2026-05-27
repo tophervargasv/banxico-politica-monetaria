@@ -149,7 +149,7 @@ with st.sidebar:
         "Token SIE Banxico",
         type="password",
         placeholder="Tu token de 64 caracteres",
-        help="Obtén tu token en banxico.org.mx/SieAPIRest"
+        help="Obtén tu token en https://www.banxico.org.mx/SieAPIRest/service/v1/"
     )
 
     st.markdown("**Periodo de análisis**")
