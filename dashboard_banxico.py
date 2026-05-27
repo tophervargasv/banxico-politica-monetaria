@@ -179,7 +179,7 @@ with st.sidebar:
 # ENCABEZADO
 # ════════════════════════════════════════════════════════════════
 st.markdown('<p class="titulo-principal">Política Monetaria Mexicana</p>', unsafe_allow_html=True)
-st.markdown('<p class="subtitulo">Análisis de series de tiempo con datos del Banco de México · Reto Banxico</p>', unsafe_allow_html=True)
+st.markdown('<p class="subtitulo">Análisis de series de tiempo con datos del Banco de México</p>', unsafe_allow_html=True)
 
 # Estado inicial — sin datos
 if not correr or not token:
