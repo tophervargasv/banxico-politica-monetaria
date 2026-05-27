@@ -413,7 +413,7 @@ with col_g2:
 st.markdown("""
 <div class="hallazgo">
 <strong>Hallazgo:</strong> La inflación Granger-causa a la tasa (lags 1-2, p&lt;0.05), pero la tasa no causa a la inflación.
-El Banxico opera una <strong>regla de reacción</strong> — sigue a la inflación pasada con 1-2 meses de rezago.
+El Banco de México opera una <strong>regla de reacción</strong> — sigue a la inflación pasada con 1-2 meses de rezago.
 </div>
 """, unsafe_allow_html=True)
 
